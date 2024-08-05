@@ -1,0 +1,103 @@
+[33m64e7d85[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m t-8
+[33m600d68d[m user
+[33m0312f0b[m t-6
+[33m27a5d77[m file-s
+[33ma22b899[m git push
+[33m422c21c[m done
+[33md91e23f[m t-0
+[33m674a08f[m t-1
+[33mcbaedfd[m Create code for advanced tasks
+[33m6b3270d[m Add to README
+[33m5d61e3e[m Implement flexboxes
+[33m5e14fce[m Implement full details
+[33m0a7b5ac[m Implement places articles
+[33m87f2bf6[m Implement place articles
+[33m4380156[m Implement dropdown lists
+[33m573c1d3[m Implement fields in search bar
+[33mce29bdc[m Implement search bar
+[33m445abbd[m Add missing semi-colon
+[33mc23ae72[m Update to properly display logo
+[33mc5f9598[m Add logo/icon images
+[33m21703d7[m Implement logo and initial coloring
+[33mb30ea9a[m Update vertical centering method in footer
+[33m850b8b6[m Implement external stylesheets
+[33m0ce244a[m Create empty README
+[33m74aecef[m Reduce text padding to 6px
+[33mffccb81[m Move styling into head
+[33m09f06e1[m Adjust footer text padding
+[33m962dbbc[m Adjust footer text padding
+[33m2498783[m Fix typos in in-line styling
+[33m465bc7f[m Merge branch 'master' of https://github.com/justinmajetich/AirBnB_clone
+[33m8366fcf[m Draft index for task 0
+[33m721ea94[m Added on break statement
+[33mf6696da[m Added another break to the README
+[33me1daf09[m Update README
+[33mebb5969[m Add tests for storage
+[33m028380b[m Add tests for save methods
+[33m9365777[m Add unittests for file_storage module
+[33m7090a8b[m Changed test to be more dynamic
+[33mdb2d32c[m Removed console tests
+[33mb448d74[m Merge branch 'master' of https://github.com/justinmajetich/AirBnB_clone
+[33m18e53c8[m Resolve error messaging issues
+[33mff42f69[m Added three tests for console
+[33mecee699[m Added help for count
+[33m57f8dd7[m Remove tracer statements
+[33m56537c8[m Merge branch 'master' of https://github.com/justinmajetich/AirBnB_clone
+[33m81906f7[m Implement parsing of multiword, quoted arguments
+[33me6f3ac1[m Added two tests for file storage to test checks
+[33mc29ea54[m Pep8 compliancy for all test files, made a couple executable
+[33mda9ddc4[m Add blank line after import
+[33m14ebec9[m Merge pull request #4 from justinmajetich/dev
+[33mc5356f8[m Move import statements for more specific calls
+[33m3a1259f[m Merge pull request #3 from justinmajetich/dev
+[33m5754694[m Merge branch 'master' of https://github.com/justinmajetich/AirBnB_clone into dev
+[33m2b24da9[m Remove save methods from BaseModel init
+[33m05fb614[m Moved files to correct directory after three fails
+[33m1c7263a[m Moved and created test engine
+[33m586b00c[m Stripped out double quotes from input for update
+[33mca77a6b[m New test file for file_storage
+[33mff5657e[m Remove test file
+[33m913dc8e[m Merge dev to master
+[33m96dd83b[m Remove test file
+[33m4049b9f[m Updated README, and changed update_at to actually update
+[33m888344d[m Remove tracer statements
+[33m7fa4bfe[m Merge branch 'dev' of https://github.com/justinmajetich/AirBnB_clone into dev
+[33m7841acc[m Correct style errors
+[33m874e24f[m Fully implement dot command syntax
+[33m8bd6962[m Add count functionality to the console
+[33m5ba0f7d[m Fix bug where last created object not saving to file
+[33m1e23aba[m Merge branch 'dev' of https://github.com/justinmajetich/AirBnB_clone into dev
+[33mc4dd3cb[m Rework precmd for advanced syntax
+[33m756359e[m Pushed init and moved all files to correct directory
+[33m3b6d85c[m Updated test files with more tests for attributes
+[33me95c970[m Merge branch 'dev' of https://github.com/justinmajetich/AirBnB_clone into dev
+[33mbfc30c7[m Implement advanced command syntax
+[33m79b8b09[m Add basic unittests for all classes
+[33m9a4adfb[m Updated README to include links to all mandatory tasks, and short descriptions for each
+[33me29a118[m Initial commits files for the tests directory
+[33m2d584a8[m Update prompt behavior for non-interactive mode
+[33m3b0daf8[m Update AUTHORS file for formatting
+[33m00a7fb6[m Merge branch 'dev' of https://github.com/justinmajetich/AirBnB_clone into dev
+[33m3c927db[m Fix syntax error
+[33m145a49f[m Updated console and storage to be dynamic
+[33mf329bbc[m Updated all classes to actually be classes
+[33maeeb00d[m Added help information methods for every command
+[33md4938b5[m Fix improper line-break
+[33m8463477[m Resolve syntax errors
+[33me0ceece[m Merge branch 'dev' of https://github.com/justinmajetich/AirBnB_clone into dev
+[33mc915d20[m Make commands dynamic to handle multiple class mdoels
+[33m35f76cd[m Added new classes for certain types of data storage
+[33meeb5246[m Implement classes dictionary
+[33mbd1a60d[m Merge branch 'dev' of https://github.com/justinmajetich/AirBnB_clone into dev
+[33m5b1f9d8[m Implement User class
+[33m11e96c7[m Merge branch 'dev' of https://github.com/justinmajetich/AirBnB_clone into dev
+[33mbaa2397[m Finished task, everything is working with a static class
+[33mbdf872e[m Dynamically assign class name in __str__
+[33m83c86c3[m Added more operations for the console
+[33m0e34bbe[m Remove __class__ entry from kwargs when instantiating
+[33ma15142b[m Resolve import loops/implement temp dict in JSON save/loads
+[33mccf9ae1[m Added console program with basic functionality
+[33m4c8689d[m Implement file storage manager
+[33m19011cc[m Update BaseModel class to receive Kwargs
+[33m2d9b168[m Create BaseModel class
+[33m41360f1[m first commit
